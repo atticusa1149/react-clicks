@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-clicks/static/css/main.eaedb401.css",
+    "main.js": "/react-clicks/static/js/main.fc614b9b.js",
+    "index.html": "/react-clicks/index.html",
+    "main.eaedb401.css.map": "/react-clicks/static/css/main.eaedb401.css.map",
+    "main.fc614b9b.js.map": "/react-clicks/static/js/main.fc614b9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaedb401.css",
+    "static/js/main.fc614b9b.js"
+  ]
+}
